@@ -1,0 +1,28 @@
+feature,importance
+numeric__incidents,0.999998197497989
+numeric__lanes_blocked,1.8025019940767695e-06
+numeric__hour,1.1732519328039108e-14
+numeric__incidents_lag_6h,3.2774163899747223e-15
+numeric__incidents_lag_24h,1.0701985068188805e-15
+numeric__day_of_week,6.361676369807248e-16
+categorical__City_MAKATI CITY,3.190390194648458e-18
+categorical__City_MANDALUYONG,0.0
+categorical__City_MANILA,0.0
+categorical__City_KALOOKAN CITY,0.0
+categorical__City_MALABON,0.0
+categorical__City_PASAY CITY,0.0
+categorical__City_PARAÑAQUE,0.0
+categorical__City_PARAÃ±AQUE,0.0
+categorical__City_NAVOTAS,0.0
+categorical__City_NAN,0.0
+categorical__City_MARIKINA,0.0
+categorical__City_PASIG CITY,0.0
+categorical__City_QUEZON CITY,0.0
+numeric__unique_types,0.0
+categorical__City_VALENZUELA,0.0
+categorical__City_SAN JUAN,0.0
+categorical__City_TAGUIG,0.0
+numeric__is_holiday,0.0
+numeric__is_weekend,0.0
+numeric__incidents_lag_3h,0.0
+numeric__incidents_lag_1h,0.0

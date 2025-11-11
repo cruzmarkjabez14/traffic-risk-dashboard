@@ -1,0 +1,28 @@
+{
+  "classification": {
+    "roc_auc_mean": 1.0,
+    "roc_auc_std": 0.0,
+    "average_precision_mean": 1.0,
+    "accuracy_mean": 1.0,
+    "precision_mean": 1.0,
+    "recall_mean": 1.0,
+    "f1_mean": 1.0,
+    "confusion_matrix": {
+      "0": {
+        "0": 2992,
+        "1": 0
+      },
+      "1": {
+        "0": 0,
+        "1": 7400
+      }
+    }
+  },
+  "regression": {
+    "mae_mean": 1.4784552191785093e-05,
+    "mae_std": 4.486591455760064e-06,
+    "rmse_mean": 0.00013832428313227915,
+    "rmse_std": 0.00020120961304239716,
+    "r2_mean": 0.9999998564581397
+  }
+}

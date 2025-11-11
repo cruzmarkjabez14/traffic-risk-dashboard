@@ -1,0 +1,28 @@
+feature,importance
+categorical__City_QUEZON CITY,0.5068316380748967
+numeric__incidents,0.4931683619250356
+numeric__incidents_lag_24h,4.256188098624421e-14
+numeric__day_of_week,1.6202481755929756e-14
+numeric__hour,5.3954567998619565e-15
+numeric__unique_types,2.5196456325562906e-15
+numeric__incidents_lag_3h,1.0510946426087102e-15
+categorical__City_MANDALUYONG,0.0
+categorical__City_KALOOKAN CITY,0.0
+categorical__City_MAKATI CITY,0.0
+categorical__City_MALABON,0.0
+categorical__City_PASAY CITY,0.0
+categorical__City_PARAÑAQUE,0.0
+categorical__City_PARAÃ±AQUE,0.0
+categorical__City_NAVOTAS,0.0
+categorical__City_NAN,0.0
+categorical__City_MARIKINA,0.0
+categorical__City_MANILA,0.0
+categorical__City_PASIG CITY,0.0
+numeric__lanes_blocked,0.0
+categorical__City_VALENZUELA,0.0
+categorical__City_SAN JUAN,0.0
+categorical__City_TAGUIG,0.0
+numeric__is_holiday,0.0
+numeric__is_weekend,0.0
+numeric__incidents_lag_1h,0.0
+numeric__incidents_lag_6h,0.0

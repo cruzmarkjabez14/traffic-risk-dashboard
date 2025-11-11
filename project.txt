@@ -1,0 +1,55 @@
+“Predicting High-Risk Traffic Periods in Metro Manila Using MMDA Incident Data”
+SDG: 11 Sustainable Cities and Communities
+Dataset: Manila Traffic Incident Data
+The dataset titled “Manila Traffic Incident Data”, created by esparko on Kaggle, provides
+detailed reports of traffic incidents across Metro Manila. The information was gathered from the
+official MMDA (Metro Manila Development Authority) Twitter account and compiled into a
+structured format. Each entry represents a unique traffic-related event, such as accidents,
+stalled vehicles, or road obstructions, along with details like the location, type of incident, time,
+and number of lanes affected. The dataset contains 17,312 records and 13 attributes, covering
+several cities including Quezon City, Makati, Mandaluyong, Pasig, and San Juan. It is
+particularly useful for analyzing traffic patterns, identifying congestion hotspots, and
+understanding the common causes of road disruptions in Metro Manila.
+Attribute Description:
+Column Name Description Data type
+Date Date when the incident was reported Object (string)
+Time Time of the incident Object (string)
+City Metro Manila city where the incident
+occurred
+Object (string)
+Location Specific location or road segment Object (string)
+Latitude/Longitude Geospatial coordinates of the incident Float
+High_Accuracy Indicates accuracy of location (1 = high) Integer
+Direction Traffic direction (e.g., NB, SB, EB, WB) Object (string)
+Type Type of incident (e.g., VEHICULAR
+ACCIDENT, STALLED VEHICLE)
+Object (string)
+Lanes_Blocked Number of lanes affected Float
+Involved Vehicles involved in the incident Object (string)
+Tweet Original MMDA tweet text Object (string)
+Source URL to MMDA tweet Object (string)
+Problem Statement:
+Metro Manila faces persistent traffic congestion and frequent road incidents that cause
+delays, safety hazards, and economic losses. Many of these incidents occur during specific
+hours of the day, yet there is limited research utilizing available data to identify or predict these
+high-risk time periods. The MMDA traffic incident dataset contains valuable temporal information
+such as the date, time, city, and type of incident that can be analyzed to uncover accident trends
+and patterns. However, without a predictive framework, authorities and commuters remain
+reactive rather than proactive in addressing traffic risks.
+This lack of time-based predictive insights hinders effective traffic management and urban
+mobility planning. By applying machine learning techniques to analyze temporal patterns in
+MMDA data, it becomes possible to predict high-risk traffic periods, allowing policymakers and
+drivers to anticipate congestion, improve road safety, and plan more efficient travel. This
+research supports Sustainable Development Goal (SDG) 11: Sustainable Cities and
+Communities, which emphasizes creating safe, inclusive, and sustainable urban transport
+systems.
+Computer Application Overview:
+The proposed system is a data-driven web application prototype designed to help users
+visualize and predict high-risk traffic periods across Metro Manila using historical MMDA traffic
+incident data. It applies machine learning predictions and interactive data visualization to identify
+when and where road incidents are most likely to occur.
+Purpose of the System
+The main purpose of this prototype is to provide a visual and predictive tool that can guide both
+commuters and traffic authorities in making better travel and management decisions. By
+showing patterns of traffic incidents over time, users can anticipate congestion-prone hours and
+locations, improving safety and mobility.
